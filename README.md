@@ -1,7 +1,7 @@
 # Application: TodoList for Smaily
 Test web application created for Smaily.
 
-![Login Form](https://i.imgur.com/AZLgrDjm.png)
+![Screenshot](https://i.imgur.com/AZLgrDjm.png)
 
 # Current buglist
  <ul>
