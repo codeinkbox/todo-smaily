@@ -3,6 +3,12 @@ Test web application created for Smaily.
 
 ![Login Form](https://i.imgur.com/AZLgrDjm.png)
 
+# Current buglist
+ <ul>
+  <li>Redirect after action - Possible solution: Redirect from 'react-router-dom' </li>
+  <li>Uncomplete on completed tasks</li>
+ </ul>
+
 # Mandatory components
  ## Browser extensions
  <ul>
@@ -13,3 +19,6 @@ Test web application created for Smaily.
  
 # NPM install
 `npm i -s redux, react-redux, redux-thunk, @material-ui/core, @material-ui/icons`
+
+# Source folder
+Source folder: <a href="https://drive.google.com/drive/folders/1-tMcod-6uyylFRyYypP0An7Ecwim7Zdp?usp=sharing">Smaily-TodoList</a>
