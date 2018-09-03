@@ -6,7 +6,7 @@ Test web application created for Smaily.
 # Current buglist
  <ul>
   <li>Redirect after action - Possible solution: Redirect from 'react-router-dom' </li>
-  <li>Uncomplete on completed tasks</li>
+  <li>Uncomplete on completed tasks - PATCH is sent when action is completed, is_completed is updated in API</li>
  </ul>
 
 # Mandatory components
